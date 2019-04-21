@@ -1,6 +1,12 @@
 # Stamped
 Swagger to Postman.json
 
+# Installation
+```
+brew tap hahnlee/brew
+brew install stamped
+```
+
 # Usage
 ```
 stamped --config config.json --url YOUR_URL --out SAVE_FILE_NAME
